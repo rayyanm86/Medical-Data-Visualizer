@@ -63,8 +63,8 @@ Features:
 
 4. Output plots:
 
-   * catplot.png
-   * heatmap.png
+   * ![catplot.png](
+   * ![heatmap.png](https://github.com/rayyanm86/Medical-Data-Visualizer/blob/ef7e6e0db4f1f57ea208b4193380a81e856b9696/heatmap.png)
 
 🛠️ Project Structure
 
